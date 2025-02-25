@@ -1,0 +1,52 @@
+{
+  "Users": [
+    {
+      "username": "pranav",
+      "password": "pranav7781",
+      "role": "user",
+      "email": "pranavpallattu2004@gmail.com",
+      "phone": "7781778177",
+      "id": 1
+    },
+    {
+      "username": "pranavjhbkj",
+      "password": "pranav123",
+      "role": "user",
+      "email": "pranav@2000",
+      "phone": "8888888888",
+      "id": 2
+    }
+  ],
+  "books": [
+    {
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "imgurl": "https://cdn.kobo.com/book-images/1200d87a-ec1d-4651-826d-52afb86d10f1/1200/1200/False/rich-dad-poor-dad-10.jpg",
+      "id": 1
+    },
+    {
+      "title": "Atomic Habits",
+      "author": "james clear",
+      "imgurl": "https://th.bing.com/th/id/OIP.XPphRHGAhPLwzzCPBvaGUgHaJa?rs=1&pid=ImgDetMain",
+      "id": 3
+    },
+    {
+      "title": "Never Finished",
+      "author": "David Goggins",
+      "imgurl": "https://images.thalia.media/07/-/4c7c897d305e4fc2a81c2062c6857443/never-finished-taschenbuch-david-goggins-englisch.jpeg",
+      "id": 4
+    },
+    {
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "imgurl": "https://i.thenile.io/r1000/9781627656573.jpg?r=5e978aebc799f",
+      "id": 5
+    },
+    {
+      "title": "Wings of Fire",
+      "author": "APJ Abdul Kalam",
+      "imgurl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1588286863i/634583.jpg",
+      "id": 6
+    }
+  ]
+}
