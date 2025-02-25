@@ -1,12 +1,20 @@
 {
-  "Users": [
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin",
+      "role": "admin",
+      "email": "admin@gmail.com",
+      "phone": "7781778177",
+      "id": 1
+    },
     {
       "username": "pranav",
       "password": "pranav7781",
       "role": "user",
       "email": "pranavpallattu2004@gmail.com",
       "phone": "7781778177",
-      "id": 1
+      "id": 2
     },
     {
       "username": "pranavjhbkj",
@@ -14,7 +22,7 @@
       "role": "user",
       "email": "pranav@2000",
       "phone": "8888888888",
-      "id": 2
+      "id": 3
     }
   ],
   "books": [
